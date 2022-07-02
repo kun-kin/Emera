@@ -578,6 +578,7 @@
 @media (max-width: 991px) {
   .service .service-wrap .service-image__inner .shape-item {
     width: 300px;
+    margin: 0 auto 50px;
   }
   .service .service-wrap .service-image__inner .shape-item span {
     font-size: 24px;
