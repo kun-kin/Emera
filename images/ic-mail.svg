@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="54" height="54" viewBox="0 0 54 54">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c9a877"/>
+      <stop offset="1" stop-color="#b38554"/>
+    </linearGradient>
+  </defs>
+  <g id="icon-mail" transform="translate(-3896 -4994)">
+    <circle id="Ellipse_23" data-name="Ellipse 23" cx="27" cy="27" r="27" transform="translate(3896 4994)" fill="url(#linear-gradient)"/>
+    <g id="mail" transform="translate(3905.786 5003.609)">
+      <path id="Path_8149" data-name="Path 8149" d="M29.42,7.268H5.008a.869.869,0,0,0-.868.869V9.884a.3.3,0,0,0,.158.21L17.13,17.424a.218.218,0,0,0,.218,0L29.792,10.1c.07-.039.256-.142.325-.19s.171-.109.171-.212V8.137a.869.869,0,0,0-.868-.868Z" transform="translate(0 0)" fill="#fff"/>
+      <path id="Path_8150" data-name="Path 8150" d="M31.3,12.831a.219.219,0,0,0-.219,0l-7.042,4.143a.216.216,0,0,0-.049.335L31.035,24.9a.217.217,0,0,0,.375-.148V13.019a.217.217,0,0,0-.108-.189Z" transform="translate(-1.122 -0.314)" fill="#fff"/>
+      <path id="Path_8151" data-name="Path 8151" d="M20.909,18.7a.216.216,0,0,0-.269-.04l-2.822,1.661a1.1,1.1,0,0,1-1.09.008l-2.484-1.419a.217.217,0,0,0-.255.029L4.556,27.685a.217.217,0,0,0,.039.346.846.846,0,0,0,.432.127H29.189a.218.218,0,0,0,.159-.365Z" transform="translate(-0.02 -0.644)" fill="#fff"/>
+      <path id="Path_8152" data-name="Path 8152" d="M11.894,17.58a.217.217,0,0,0-.039-.347L4.464,13.011a.217.217,0,0,0-.324.189V24.277a.216.216,0,0,0,.364.158l7.39-6.856Z" transform="translate(0 -0.324)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="114.028" height="166.025" viewBox="0 0 114.028 166.025">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-9.343" y1="-7.747" x2="73.906" y2="62.003" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1f4753"/>
+      <stop offset="1" stop-color="#259b82"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-12.501" y1="-10.393" x2="70.748" y2="59.357" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="-15.659" y1="-13.039" x2="67.59" y2="56.711" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="-18.817" y1="-15.685" x2="64.432" y2="54.065" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="-12.295" y1="-10.22" x2="70.954" y2="59.529" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-6" x1="-15.453" y1="-12.866" x2="67.796" y2="56.883" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-7" x1="-18.611" y1="-15.512" x2="64.638" y2="54.237" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-8" x1="-21.769" y1="-18.158" x2="61.48" y2="51.592" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-9" x1="-15.187" y1="-12.643" x2="68.062" y2="57.106" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-10" x1="-18.345" y1="-15.289" x2="64.904" y2="54.46" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-11" x1="-21.503" y1="-17.935" x2="61.746" y2="51.814" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-12" x1="-24.661" y1="-20.581" x2="58.588" y2="49.168" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-13" x1="-18.172" y1="-15.144" x2="65.078" y2="54.606" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-14" x1="-21.33" y1="-17.79" x2="61.92" y2="51.96" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-15" x1="-24.488" y1="-20.436" x2="58.762" y2="49.314" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-16" x1="-27.646" y1="-23.082" x2="55.604" y2="46.668" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-17" x1="-21.125" y1="-17.618" x2="62.124" y2="52.131" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-18" x1="-24.283" y1="-20.264" x2="58.966" y2="49.485" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-19" x1="-27.441" y1="-22.91" x2="55.808" y2="46.839" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-20" x1="-30.599" y1="-25.556" x2="52.65" y2="44.193" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="dots" transform="translate(-1725.18 -3583.588)" opacity="0.33">
+    <g id="Group_1090" data-name="Group 1090" transform="translate(1725.18 3583.588)">
+      <circle id="Ellipse_29" data-name="Ellipse 29" cx="3.329" cy="3.329" r="3.329" fill="url(#linear-gradient)"/>
+      <circle id="Ellipse_30" data-name="Ellipse 30" cx="3.329" cy="3.329" r="3.329" transform="translate(35.79)" fill="url(#linear-gradient-2)"/>
+      <circle id="Ellipse_31" data-name="Ellipse 31" cx="3.329" cy="3.329" r="3.329" transform="translate(71.579)" fill="url(#linear-gradient-3)"/>
+      <circle id="Ellipse_32" data-name="Ellipse 32" cx="3.329" cy="3.329" r="3.329" transform="translate(107.369)" fill="url(#linear-gradient-4)"/>
+    </g>
+    <g id="Group_1091" data-name="Group 1091" transform="translate(1725.18 3623.517)">
+      <circle id="Ellipse_33" data-name="Ellipse 33" cx="3.329" cy="3.329" r="3.329" fill="url(#linear-gradient-5)"/>
+      <circle id="Ellipse_34" data-name="Ellipse 34" cx="3.329" cy="3.329" r="3.329" transform="translate(35.79)" fill="url(#linear-gradient-6)"/>
+      <circle id="Ellipse_35" data-name="Ellipse 35" cx="3.329" cy="3.329" r="3.329" transform="translate(71.579)" fill="url(#linear-gradient-7)"/>
+      <circle id="Ellipse_36" data-name="Ellipse 36" cx="3.329" cy="3.329" r="3.329" transform="translate(107.369)" fill="url(#linear-gradient-8)"/>
+    </g>
+    <g id="Group_1092" data-name="Group 1092" transform="translate(1725.18 3662.636)">
+      <circle id="Ellipse_37" data-name="Ellipse 37" cx="3.329" cy="3.329" r="3.329" fill="url(#linear-gradient-9)"/>
+      <circle id="Ellipse_38" data-name="Ellipse 38" cx="3.329" cy="3.329" r="3.329" transform="translate(35.79)" fill="url(#linear-gradient-10)"/>
+      <circle id="Ellipse_39" data-name="Ellipse 39" cx="3.329" cy="3.329" r="3.329" transform="translate(71.579)" fill="url(#linear-gradient-11)"/>
+      <circle id="Ellipse_40" data-name="Ellipse 40" cx="3.329" cy="3.329" r="3.329" transform="translate(107.369)" fill="url(#linear-gradient-12)"/>
+    </g>
+    <g id="Group_1093" data-name="Group 1093" transform="translate(1725.18 3703.003)">
+      <circle id="Ellipse_41" data-name="Ellipse 41" cx="3.329" cy="3.329" r="3.329" fill="url(#linear-gradient-13)"/>
+      <circle id="Ellipse_42" data-name="Ellipse 42" cx="3.329" cy="3.329" r="3.329" transform="translate(35.79)" fill="url(#linear-gradient-14)"/>
+      <circle id="Ellipse_43" data-name="Ellipse 43" cx="3.329" cy="3.329" r="3.329" transform="translate(71.579)" fill="url(#linear-gradient-15)"/>
+      <circle id="Ellipse_44" data-name="Ellipse 44" cx="3.329" cy="3.329" r="3.329" transform="translate(107.369)" fill="url(#linear-gradient-16)"/>
+    </g>
+    <g id="Group_1094" data-name="Group 1094" transform="translate(1725.18 3742.955)">
+      <circle id="Ellipse_45" data-name="Ellipse 45" cx="3.329" cy="3.329" r="3.329" fill="url(#linear-gradient-17)"/>
+      <circle id="Ellipse_46" data-name="Ellipse 46" cx="3.329" cy="3.329" r="3.329" transform="translate(35.79)" fill="url(#linear-gradient-18)"/>
+      <circle id="Ellipse_47" data-name="Ellipse 47" cx="3.329" cy="3.329" r="3.329" transform="translate(71.579)" fill="url(#linear-gradient-19)"/>
+      <circle id="Ellipse_48" data-name="Ellipse 48" cx="3.329" cy="3.329" r="3.329" transform="translate(107.369)" fill="url(#linear-gradient-20)"/>
+    </g>
+  </g>
+</svg>

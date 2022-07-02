@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="379.331" height="385.716" viewBox="0 0 379.331 385.716">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.345" y1="0.661" x2="0" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#025750"/>
+      <stop offset="1" stop-color="#03a687"/>
+    </linearGradient>
+    <filter id="hexagon-about2" x="0" y="0" width="379.331" height="385.716" filterUnits="userSpaceOnUse">
+      <feOffset dx="-10" dy="25" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="17.5" result="blur"/>
+      <feFlood flood-color="#010101" flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#hexagon-about2)">
+    <path id="hexagon-about2-2" data-name="hexagon-about2" d="M-113.387,323.715h0a11.8,11.8,0,0,1-8.1-3.206l-95.752-89.82a11.923,11.923,0,0,1-3.245-5.221,11.953,11.953,0,0,1-.212-6.149l29.561-128.487a11.931,11.931,0,0,1,2.877-5.433,11.871,11.871,0,0,1,5.2-3.265l125.3-38.61A11.806,11.806,0,0,1-54.28,43a11.8,11.8,0,0,1,8.1,3.207l95.752,89.819A11.925,11.925,0,0,1,53.028,147.4L23.467,275.882a11.886,11.886,0,0,1-8.074,8.7l-125.3,38.609A11.8,11.8,0,0,1-113.387,323.715Z" transform="translate(115.83 351.22) rotate(180)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
